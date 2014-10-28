@@ -24,7 +24,6 @@
     <string name="notification_recording_finished_text">Kliknite pre zobrazenie %s</string>
 
     <string name="notification_recording_error_title">Chyba</string>
-    <string name="notification_recording_error_text">%s</string>
 
     <string name="error_unable_to_create_directory">Nepodarilo sa vytvoriť adresár.</string>
     <string name="error_external_storage_unavailable">Externé uložisko nie je dostupné.</string>

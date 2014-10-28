@@ -24,7 +24,6 @@
     <string name="notification_recording_finished_text">Touch to view %s</string>
 
     <string name="notification_recording_error_title">Screen recorder error</string>
-    <string name="notification_recording_error_text">%s</string>
 
     <string name="notification_video_processing_title">Processing recorded video</string>
 

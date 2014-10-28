@@ -24,7 +24,6 @@
     <string name="notification_recording_finished_text">轻触即可查看 %s</string>
 
     <string name="notification_recording_error_title">屏幕录像失败</string>
-    <string name="notification_recording_error_text">%s</string>
 
     <string name="notification_video_processing_title">正在处理录制的视频</string>
 

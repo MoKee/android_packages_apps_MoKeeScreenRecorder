@@ -24,7 +24,6 @@
     <string name="notification_recording_finished_text">Πατήστε για να δείτε %s</string>
 
     <string name="notification_recording_error_title">Σφάλμα</string>
-    <string name="notification_recording_error_text">%s</string>
 
     <string name="error_unable_to_create_directory">Δεν ήταν δυνατή η δημιουργία φακέλου αποθήκευσης.</string>
     <string name="error_external_storage_unavailable">Δεν υπάρχει εξωτερικός χώρος αποθήκευσης.</string>

@@ -296,7 +296,7 @@ public class ScreenRecorderService extends IntentService
                 .setAutoCancel(true)
                 .setOngoing(false)
                 .setContentTitle(getString(R.string.notification_recording_error_title))
-                .setContentText(getString(R.string.notification_recording_error_text, error))
+                .setContentText(error)
                 .setSmallIcon(R.drawable.ic_notify_screen_recorder_error)
                 .setWhen(System.currentTimeMillis())
                 .build();
