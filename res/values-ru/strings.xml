@@ -15,15 +15,15 @@
      limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-  <string name="app_name">запись экрана</string>
-  <string name="notification_recording_title">Процесс записи экрана</string>
+  <string name="app_name">Запись экрана</string>
+  <string name="notification_recording_title">Идет запись экрана</string>
   <string name="notification_recording_finished_title">Запись экрана сохранена</string>
   <string name="notification_recording_finished_text">Нажмите для просмотра %s</string>
   <string name="notification_recording_error_title">Ошибка записи экрана</string>
-  <string name="notification_video_processing_title">Процесс записи видео</string>
+  <string name="notification_video_processing_title">Обработка записи</string>
   <string name="notification_action_stop_recording">Остановить запись</string>
   <string name="notification_action_show_touch">Показать нажатия</string>
   <string name="error_unable_to_create_directory">Не удалось создать выходной каталог.</string>
-  <string name="error_external_storage_unavailable">Нет внешнего хранения.</string>
+  <string name="error_external_storage_unavailable">Внешнее хранилище не доступно.</string>
   <string name="error_unable_to_start">Не удается начать запись.</string>
 </resources>
