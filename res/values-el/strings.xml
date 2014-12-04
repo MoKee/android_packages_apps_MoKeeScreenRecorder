@@ -15,10 +15,14 @@
      limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <string name="app_name">Καταγραφή Οθόνης</string>
   <string name="notification_recording_title">Η καταγραφή οθόνης βρίσκεται σε εξέλιξη</string>
   <string name="notification_recording_finished_title">Η καταγραφή αποθηκεύτηκε</string>
   <string name="notification_recording_finished_text">Πατήστε για να δείτε %s</string>
   <string name="notification_recording_error_title">Σφάλμα</string>
+  <string name="notification_video_processing_title">Επεξεργασία καταγεγραμμένου βίντεο</string>
+  <string name="notification_action_stop_recording">Τέλος καταγραφής</string>
+  <string name="notification_action_show_touch">Προβολή αφής</string>
   <string name="error_unable_to_create_directory">Δεν ήταν δυνατή η δημιουργία φακέλου αποθήκευσης.</string>
   <string name="error_external_storage_unavailable">Δεν υπάρχει εξωτερικός χώρος αποθήκευσης.</string>
   <string name="error_unable_to_start">Δεν είναι δυνατή η εκκίνηση της καταγραφής.</string>
